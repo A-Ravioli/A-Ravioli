@@ -2,8 +2,6 @@
 <h1 align="center"><b>Hi , I'm Arav Kumar </b></h1>
 <!--  -->
 
-<br>
-
 - AI Researcher and Data Scientist first, full-stack developer second
 - Host cozy hacks coworking sessions in Boston (details on twitter)
 - Building [Veridian](https://veridian.framer.website), an agent to automate data cleaning 
