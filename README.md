@@ -4,19 +4,15 @@
 
 <br>
 
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- AI Researcher and Data Scientist first, full-stack developer second
+- Host cozy hacks coworking sessions in Boston (details on twitter)
+- Building [Veridian](https://veridian.framer.website), an agent to automate data cleaning 
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
@@ -33,6 +29,10 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Rust](https://img.shields.io/badge/Rust%20-%2314354C.svg?style=for-the-badge&logo=Rust&logoColor=white)
+    ![Javascript](https://img.shields.io/badge/Javascript%20-%2314354C.svg?style=for-the-badge&logo=Javascript&logoColor=white)
+    ![Typescript](https://img.shields.io/badge/Typescript%20-%2314354C.svg?style=for-the-badge&logo=Typescript&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart%20-%2314354C.svg?style=for-the-badge&logo=Dart&logoColor=white)
 
 <br>   
     
