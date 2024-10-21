@@ -4,7 +4,7 @@
 
 - AI Researcher and Data Scientist first, full-stack developer second
 - Host cozy hacks coworking sessions in Boston (details on twitter)
-- Building [Veridian](https://veridian.framer.website), an agent to automate data cleaning 
+- Building [Whitebox](https://trywhitebox.com), an agent to automate data cleaning 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
