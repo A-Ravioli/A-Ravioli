@@ -1,6 +1,29 @@
+### hi, i'm arav!
 
-<h1 align="center"><b>Hi , I'm Arav Kumar </b></h1>
-<!--  -->
+i'm an AI researcher, quant, and obssessive builder. currently making wright labs, building foundation models for long-horizon tasks.
 
-- AI Researcher and Quant
-- Host cozy hacks coworking sessions in Boston (details on twitter)
+cool things i've done:
+
+- made a bootstrapped data cleaning company, starting with a $5k grant for winning buildspace
+- founded a quant fund in high school with ex-Bridgewater devs, ex-Amazon AI devs, and the CTO of a crypto exchange
+- invented a new type of charitable giving vehicle, the CGRT, buy combining insurance products with charitable remainder trusts
+- made a carbon-capture filter for cars and won international entrepreneurship competitions for it in middle school
+- helped run MIT's startup accelerator
+
+cool things i've built:
+
+- whitebox: agents for multimodal data cleaning [link](https://x.com/AI_Arav/status/1809700233133113617)
+- k-factor: self-enabling AI agent that builds it's own tools and placed 4th at an MIT hackathon [code](https://github.com/Whitebox-inc/k-factor)
+- aeras: car tailpipe carbon capture filter that removes 90% of Carbon Dioxide/Monoxide using polyethylenimine hydrogel beads
+- gated memory unit: a new RNN architecture that was 4x more efficient and my first published paper [paper](https://link.springer.com/chapter/10.1007/978-981-99-0741-0_23)
+
+cool places i've worked/consulted for:
+
+- Oak Ridge National Lab: worked as an AI researcher
+- Charles Schwab: created charitable giving vehicles with them
+- The Smithsonian: advised on charitable giving
+
+i go to school in Boston, but i work in Cambridge, and you can usually find me in San Francisco.
+
+**reach out here:**  
+[Twitter/X](https://x.com/AI_Arav) • [LinkedIn](https://www.linkedin.com/in/arav-kumar/) • [Website](#)  
