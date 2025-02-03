@@ -17,7 +17,7 @@ i'm an AI researcher, quant, and obssessive builder. currently making wright lab
 - aeras: car tailpipe carbon capture filter that removes 90% of Carbon Dioxide/Monoxide using polyethylenimine hydrogel beads
 - gated memory unit: a new RNN architecture that was 4x more efficient and my first published [paper](https://link.springer.com/chapter/10.1007/978-981-99-0741-0_23)
 
-##### cool places i've worked/consulted for:
+#### cool places i've worked/consulted for:
 
 - Oak Ridge National Lab: AI researcher on a ton of different teams
 - Charles Schwab: created charitable giving vehicles with their charitable arm
