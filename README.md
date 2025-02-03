@@ -25,4 +25,4 @@ i'm an AI researcher, quant, and obssessive builder. currently making wright lab
 i go to school in Boston, but i usually work in Cambridge, and you can probably find me in San Francisco.
 
 reach out here:  
-[Twitter/X](https://x.com/AI_Arav) • [LinkedIn](https://www.linkedin.com/in/arav-kumar/) • [Website](#)  
+[Twitter/X](https://x.com/AI_Arav) • [LinkedIn](https://www.linkedin.com/in/arav-kumar/)
