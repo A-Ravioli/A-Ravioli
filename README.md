@@ -23,6 +23,7 @@ i'm an AI researcher, quant, and obssessive builder. currently making wright lab
 
 - Oak Ridge National Lab: AI researcher on a ton of different teams
 - Charles Schwab: created charitable giving vehicles with their charitable arm
+- A bunch of different startups: Ondara, Distru, etc.
 
 i go to school in Boston, but i usually work in Cambridge, and you can probably find me in San Francisco.
 
