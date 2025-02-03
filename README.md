@@ -23,7 +23,7 @@ cool places i've worked/consulted for:
 - Charles Schwab: created charitable giving vehicles with them
 - The Smithsonian: advised on charitable giving
 
-i go to school in Boston, but i work in Cambridge, and you can usually find me in San Francisco.
+i go to school in Boston, but i usually work in Cambridge, and you can probably find me in San Francisco.
 
 **reach out here:**  
 [Twitter/X](https://x.com/AI_Arav) • [LinkedIn](https://www.linkedin.com/in/arav-kumar/) • [Website](#)  
