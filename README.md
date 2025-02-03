@@ -12,7 +12,7 @@ cool things i've done:
 
 cool things i've built:
 
-- whitebox: agents for multimodal data cleaning [link](https://x.com/AI_Arav/status/1809700233133113617)
+- whitebox: agents for multimodal data cleaning [the video that started it all](https://x.com/AI_Arav/status/1809700233133113617)
 - k-factor: self-enabling AI agent that builds it's own tools and placed 4th at an MIT hackathon [code](https://github.com/Whitebox-inc/k-factor)
 - aeras: car tailpipe carbon capture filter that removes 90% of Carbon Dioxide/Monoxide using polyethylenimine hydrogel beads
 - gated memory unit: a new RNN architecture that was 4x more efficient and my first published paper [paper](https://link.springer.com/chapter/10.1007/978-981-99-0741-0_23)
