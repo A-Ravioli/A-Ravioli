@@ -4,7 +4,7 @@ i'm an AI researcher, quant, and obssessive builder. currently making wright lab
 
 cool things i've done:
 
-- made a bootstrapped data cleaning company, starting with a $5k grant for winning buildspace
+- made a bootstrapped data cleaning company, starting off a $5k grant for winning buildspace
 - founded a quant fund in high school with ex-Bridgewater devs, ex-Amazon AI devs, and the CTO of a crypto exchange
 - invented a new type of charitable giving vehicle, the CGRT, buy combining insurance products with charitable remainder trusts
 - made a carbon-capture filter for cars and won international entrepreneurship competitions for it in middle school
