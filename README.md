@@ -2,6 +2,8 @@
 
 i'm an AI researcher, quant, and obssessive builder. currently making wright labs, building foundation models for long-horizon tasks.
 
+---
+
 #### cool things i've done:
 
 - made a bootstrapped data cleaning company, starting off a $5k grant for winning buildspace
