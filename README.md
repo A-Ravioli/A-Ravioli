@@ -8,7 +8,7 @@ cool things i've done:
 - founded a quant fund in high school with ex-Bridgewater devs, ex-Amazon AI devs, and the CTO of a crypto exchange
 - invented a new type of charitable giving vehicle, the CGRT, buy combining insurance products with charitable remainder trusts
 - made a carbon-capture filter for cars and won international entrepreneurship competitions for it in middle school
-- helped run MIT's startup accelerator
+- helped run MIT's startup accelerator, Starthouse
 
 cool things i've built:
 
