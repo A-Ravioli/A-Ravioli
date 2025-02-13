@@ -1,4 +1,4 @@
-### hi, i'm arav!
+### hi! i'm arav.
 
 i'm an AI researcher, quant, and obssessive builder. currently starting wright labs, building foundation models for long-horizon tasks.
 
