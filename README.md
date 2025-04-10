@@ -25,7 +25,7 @@ i'm an AI researcher, quant, and obssessive builder. currently @ wright labs, bu
 - Charles Schwab: created charitable giving vehicles with their charitable arm
 - A bunch of different startups: Ondara, Distru, etc.
 
-i go to school in Boston, but i usually work in Cambridge, and you can probably find me in San Francisco.
+i go to school in Boston, but i usually work in Kendall, Cambridge, and you can probably find me in San Francisco.
 
 reach out here:  
 [Twitter/X](https://x.com/AI_Arav) • [LinkedIn](https://www.linkedin.com/in/arav-kumar/)
