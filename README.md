@@ -1,6 +1,6 @@
 ### hi! i'm arav.
 
-i'm an AI researcher, quant, and obssessive builder. currently @ wright labs, building foundation models for scientific discovery.
+i'm an AI researcher, quant, and obssessive builder. currently @ amplitude and post-training foundation models for scientific discovery.
 
 ---
 
