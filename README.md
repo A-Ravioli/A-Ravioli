@@ -1,6 +1,6 @@
 ### hi! i'm arav.
 
-i like ml, quant/financial markets, and solarpunk futures.
+i like ml, quant/financial markets, and a solarpunk future.
 
 i go to school in Boston, but i usually work in Kendall Square, and you can probably find me in San Francisco.
 
